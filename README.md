@@ -1,2 +1,2 @@
 # Embedded
-all stuff about embedded
+Record develop stuff about electric embedded.
